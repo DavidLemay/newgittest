@@ -1,0 +1,5 @@
+Bonjour
+Hallo
+Salut
+Oui
+Non
