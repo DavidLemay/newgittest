@@ -1,4 +1,4 @@
-Bonjour
+﻿Bonjour
 Hallo
 Salut
 Oui
@@ -8,4 +8,6 @@ En fait je ne sais pas..
 La licorne est partie manger de la paille.
 Oui, les carottes sont cuites.
 Les pirates sont prêts.
+
+Je fais un changement localement sur mon portable.
 
